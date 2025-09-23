@@ -1,5 +1,8 @@
 # Awesome-Vibecoding-Checklists (WIP)
 
+  [![Product with Attitude](https://img.shields.io/badge/Product%20with-Attitude-FF6851?style=for-the-badge)](https://karozieminski.substack.com/)
+  [![Made with Love](https://img.shields.io/badge/made%20with-🧡-orange?style=for-the-badge)](https://stackshelf.app)
+
 # License
 
 **Author**: [Karo Z.](https://karozieminski.substack.com/)
