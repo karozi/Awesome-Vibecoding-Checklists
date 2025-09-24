@@ -91,13 +91,9 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 
 ---
 
-## Live Demos & Walkthroughs
+## Demos & Showcase
 
-> Drop in short GIFs or Loom links. Keep them 30–90s.
-
-* 🔧 `assets/demo-vertical-slice.gif` — vertical slice flow (spec → code → test → ship)
-* 🔧 `assets/demo-checklist.gif` — checklists in action with agent prompts
-* 🔧 `assets/demo-stackshelf.gif` — publishing your resources on **StackShelf**
+* 🔧 `assets/showcase-stackshelf.gif` 
 
 ---
 
